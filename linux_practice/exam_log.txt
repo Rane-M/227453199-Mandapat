@@ -1,0 +1,161 @@
+   0 whoami
+   1 passwd
+   2 ifconfig
+   3 openssh
+   4 sshd
+   5 apk install
+   6 apk add
+   7 apk info
+   8 jdk install
+   9 apk update
+  10 apk add apache2
+  11 apk add openjdk11
+  12 apk add jdk
+  13 apk add neofetch
+  14 apk info
+  15 apk add mysql
+  16 apk add openssh
+  17 apk list
+  18 apk info
+  19 apk add python
+  20 open add jdk
+  21 apk add jdk
+  22 apk add openjdk11
+  23 apk add python3
+  24 apk add git
+  25 apk add github-cli
+  26 apk info
+  27 git
+  28 java
+  29 sshd
+  30 ssh
+  31 mysqld
+  32 apache
+  33 apache ctl
+  34 apachectl
+  35 apk add apache
+  36 apk add apache2
+  37 passwd
+  38 whoami
+  39 ifconfig
+  40 apk search java
+  41 apk search jdk
+  42 apk install openjdk8
+  43 apk add openjdk8
+  44 apk update
+  45 apk search apache
+  46 apk add openjdk8
+  47 apk upgrade
+  48 apk info
+  49 apk add openjdk8
+  50 apk add apache2-cli
+  51 apk add apache-cli
+  52 apk search apache
+  53 apk add apache2-ctl
+  54 apk search jdk
+  55 apk search php
+  56 apk add php8
+  57 apk update
+  58 apk upgrade
+  59 java
+  60 apk add java
+  61 neofetch
+  62 apache
+  63 apk add apache
+  64 php
+  65 apk add php
+  66 php
+  67 apk update
+  68 echo "https://dl-cdn.alpinelinux.org/alpine/v3.13/community" >> /etc/apk/repositories
+  69 apk add openjdk11
+  70 apk update
+  71 apk add openjdk11
+  72 python
+  73 python3
+  74 java -version
+  75 apk add openjdk8
+  76 java
+  77 echo "https://dl-cdn.alpinelinux.org/alpine/v3.13/community"
+  78 apk update
+  79 echo "https://dl-cdn.alpinelinux.org/alpine/v3.13/community" >> /etc/apk/repositories
+  80 apk update
+  81 apk add openjdk11
+  82 apk add openjdk
+  83 pho
+  84 php
+  85 apk add pho
+  86 apk update
+  87 apk add php
+  88 php -v
+  89 apk add php-cli
+  90 php -v
+  91 apk del php
+  92 apk del php8
+  93 apk del php-cli
+  94 apk add php
+  95 apk add php-cli
+  96 php -v
+  97 mysql
+  98 apk add mariadb mariadb-client
+  99 mysql_install_db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+ 100 rc-service mariadb start
+ 101 apk add openssh
+ 102 openssh
+ 103 passwd
+ 104 whoami
+ 105 ipconfig
+ 106 /usr/sbin/sshd
+ 107 apk update
+ 108 apk add openssh
+ 109 /usr/sbin/sshd
+ 110 ifconfig
+ 111 ssh-keygen -A
+ 112 ip a
+ 113 hostname -I
+ 114 hostname -i
+ 115 mount -t proc proc /proc
+ 116 ifconfig
+ 117 ps aux | grep sshs
+ 118 /usr/sbin/sshd
+ 119 ssh localhost
+ 120 cd ~/yourrepo
+ 121 apk update
+ 122 git
+ 123 git clone
+ 124 git clone https://github.com/Rane-M/227453199-Mandapat
+ 125 cd repository
+ 126 cd 227453199-Mandapat
+ 127 history -c
+ 128 mkdir linux_practice
+ 129 cd linux_practice
+ 130 touch notes.txt
+ 131 ls >> file_list
+ 132 cat notes.txt
+ 133 echo "Grabe exam!" > notes.txt
+ 134 echo "Hello, Linux!" > notes.txt
+ 135 echo "This is a practical exam." > notes.txt
+ 136 head -n 2 notes.txt
+ 137 head -n 1 notes.txt
+ 138 echo "Hello, Linux!" > notes.txt
+ 139 echo "This is a practical exam." >> notes.txt
+ 140 head -n 1 notes.txt 
+ 141 tail -n 1 notes.txt
+ 142 mkdir subdir
+ 143 mv notes.txt subdir/
+ 144 mv subdir practice_subdir
+ 145 cp practice_subdir/notes.txt ../
+ 146 linux practice/
+ 147 linux_practice/
+ 148 cp practice_subdir/notes.txt ../linux_practice/
+ 149 date
+ 150 uptime
+ 151 du -sh ~
+ 152 shh -V
+ 153 ssh --v
+ 154 php --v
+ 155 mysql --version
+ 156 apachect1 -v
+ 157 python3 --version
+ 158 java -version
+ 159 git checkout -b finalexam
+ 160 history > exam_log.txt
